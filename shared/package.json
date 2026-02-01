@@ -1,0 +1,16 @@
+{
+  "name": "@glassflow/shared",
+  "version": "1.0.0",
+  "description": "GlassFlow shared types and utilities",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "shared",
+    "types",
+    "utilities"
+  ],
+  "author": "GlassFlow Team",
+  "license": "MIT"
+}
